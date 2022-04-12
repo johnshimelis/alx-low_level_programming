@@ -7,5 +7,6 @@ int main(void)
 
     s = 98 + SIZE;
     printf("%d\n", s);
+    printf("%d\n", SIZE);
     return (0);
 }
